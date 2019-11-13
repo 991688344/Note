@@ -74,3 +74,9 @@ $ git commit -m "add 3 files."
 
 
 
++ 如果`git status`告诉你有文件被修改过，用`git diff`可以查看修改内容。
+
+![git_status.png](git.assets/gitstatus.png.jpg)
+
+![git_diff](git.assets/image-20191113204458953.png)
+
